@@ -6,4 +6,4 @@ Tìm câu trả lời cho câu hỏi đó dựa trên data đã có với giải
 
 #ToRun: chạy file demoFinal.py =>> python3 demoFinal.py và nhập câu hỏi  
 
-# Vì độ rộng dữ liệu chưa lớn và có nhiễu nhiều nến kết quả chưa thật sự chính xác
+# Vì độ rộng dữ liệu chưa lớn và có nhiễu nhiều nn kết quả chưa thật sự chính xác
